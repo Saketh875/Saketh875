@@ -44,16 +44,7 @@ When I'm not building, I'm reading about the latest model releases, competing in
 
 <table>
 <tr>
- <td width="50%">
-
-### 📱 Telugu Conversational AI for Android
-Always-on Android voice assistant with a floating overlay UI for hands-free device control. Integrates **Speech-to-Text, OpenAI NLP, and TTS** for end-to-end Telugu conversational AI. Automates in-app navigation via Android Accessibility Services.
-
-**Stack:** Kotlin · Android SDK · OpenAI API · Accessibility Services
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saketh875)
-
-</td>
+ 
 <td width="50%">
 
 ### 🌧️ Hyderabad Monsoon Traffic Analysis
@@ -88,7 +79,16 @@ Multi-agent Python pipeline orchestrating trend research, content writing, and s
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saketh875/Content-Gen-Agent)
 
 </td>
+<td width="50%">
 
+### 📱 Telugu Conversational AI for Android
+Always-on Android voice assistant with a floating overlay UI for hands-free device control. Integrates **Speech-to-Text, OpenAI NLP, and TTS** for end-to-end Telugu conversational AI. Automates in-app navigation via Android Accessibility Services.
+
+**Stack:** Kotlin · Android SDK · OpenAI API · Accessibility Services
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saketh875)
+
+</td>
 </tr>
 </table>
 
