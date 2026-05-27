@@ -44,6 +44,16 @@ When I'm not building, I'm reading about the latest model releases, competing in
 
 <table>
 <tr>
+ <td width="50%">
+
+### 📱 Telugu Conversational AI for Android
+Always-on Android voice assistant with a floating overlay UI for hands-free device control. Integrates **Speech-to-Text, OpenAI NLP, and TTS** for end-to-end Telugu conversational AI. Automates in-app navigation via Android Accessibility Services.
+
+**Stack:** Kotlin · Android SDK · OpenAI API · Accessibility Services
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saketh875)
+
+</td>
 <td width="50%">
 
 ### 🌧️ Hyderabad Monsoon Traffic Analysis
@@ -78,16 +88,7 @@ Multi-agent Python pipeline orchestrating trend research, content writing, and s
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saketh875/Content-Gen-Agent)
 
 </td>
-<td width="50%">
 
-### 📱 Telugu Conversational AI for Android
-Always-on Android voice assistant with a floating overlay UI for hands-free device control. Integrates **Speech-to-Text, OpenAI NLP, and TTS** for end-to-end Telugu conversational AI. Automates in-app navigation via Android Accessibility Services.
-
-**Stack:** Kotlin · Android SDK · OpenAI API · Accessibility Services
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saketh875)
-
-</td>
 </tr>
 </table>
 
@@ -146,18 +147,6 @@ Always-on Android voice assistant with a floating overlay UI for hands-free devi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Saketh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saketh875&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f3ff&icon_color=bd00ff&text_color=e0e0e0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saketh875&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f3ff&text_color=e0e0e0)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
@@ -168,7 +157,6 @@ I'm actively looking for internship opportunities in **AI Engineering**, **Full 
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakethgade081@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saketh875.github.io/My-Portfolio/)
 
-*Open to roles in Hyderabad · Bengaluru · Remote*
 
 </div>
 
