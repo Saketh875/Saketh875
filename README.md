@@ -52,7 +52,7 @@ Analyzed **10 years of real rainfall + traffic data** across 30+ city monitoring
 **Stack:** Python · JavaScript · Data Analysis · Real-Time APIs
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://saketh875.github.io/Rain-Traffic/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saketh875)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/Saketh875](https://github.com/Saketh875/Rain-Traffic))
 
 </td>
 <td width="50%">
@@ -85,7 +85,7 @@ Always-on Android voice assistant with a floating overlay UI for hands-free devi
 
 **Stack:** Kotlin · Android SDK · OpenAI API · Accessibility Services
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saketh875)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/Saketh875](https://github.com/Saketh875/Telugu_Android_assist))
 
 </td>
 </tr>
